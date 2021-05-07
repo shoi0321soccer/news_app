@@ -13,8 +13,8 @@ git clone ...
 
 ## Requirements
 
-  * expo
-  * react native
+  * expo 4.3.4
+  * react native 0.64
 
 ## Usage
 
