@@ -2,8 +2,7 @@
 
 Implementation of news-app with js.
 
-
-https://user-images.githubusercontent.com/58880431/117381938-39479300-af18-11eb-8bc2-720ade7a7a5a.mov
+![news-app](https://user-images.githubusercontent.com/58880431/117382233-06ea6580-af19-11eb-837a-160fa6d26d91.gif)
 
 
 ## Installation
